@@ -2,8 +2,8 @@
 #### The System to the students and Teachers
 
 ## This project is available in C++ and Python
-- [CPP](CPP)
-- [Python](python)
+- [CPP](college_with_cpp.cpp)
+- [Python](college_with_python.py)
 
 ## To make more security in our system every (Stydent / Teacher) have unique user name and password
 
